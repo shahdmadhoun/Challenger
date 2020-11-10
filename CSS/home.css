@@ -1,0 +1,152 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.Challenger {
+    background-image: url("../imge/f1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 1920px;
+    height: 1080px;
+}
+.ChallengerText {
+
+    font-family: 'Sitka Display', sans-serif;
+      font-size: 86px;
+      height: 350px;
+      width: 70px;
+      top:270px;
+      left: 148px;
+      position: relative;
+      display: block;
+      color: white;
+  }
+  .testText {
+    height: 60px;
+    width: 915px;
+    font-family: "Open Sans";
+     font-size: 49px;
+     position: relative;
+     left: 148px;
+     margin-bottom: 100px;
+     color:#650061
+}
+.AskMe { 
+    width: 405px;
+    height: 81px;
+    font-family: "Open Sans";
+    font-size: 49px;
+    border-radius: 40px;
+    border:none;
+    position: relative;
+    left:148px;
+    margin-bottom: 20px;;
+    display: block;
+    color:#650061;
+}
+.speedometer { 
+    width: 405px;
+    height: 81px;
+    font-family: "Open Sans";
+    font-size: 49px;
+    border-radius: 40px;
+    border:none;
+    position: relative;
+    left:148px;
+    margin-bottom: 20px;;
+    display: block;
+    color:#650061;
+}
+.pseu {
+    position: absolute;
+    top:1010px;
+    left:148px;
+    font-family: "Open Sans";
+    font-size: 24px;
+    width:200px;
+}
+.startquiz {
+    height: 900px;
+}
+.quizButton{
+    width: 1238px;
+    height: 233px;
+    font-family: "Open Sans";
+    font-size: 49px;
+    background-color: #9A24A9;
+    border: none;
+    border-radius: 15px;
+    position: absolute;
+    right: 341px;
+    top: 1300px;
+}
+.check {
+    font-family: "Open Sans";
+    font-size: 27px;
+    position: absolute;
+    right:773px;
+    top:1600px;
+    text-align: center;
+
+}
+.want {
+    width:570px;
+    height: 175px;
+    font-family: 'Sitka Display', 
+    sans-serif;
+    font-size: 85px;
+    color: #2E353A;
+    position: absolute;
+    top:2000px;
+    left: 134px;
+}
+.skills {
+    width:570px;
+    height: 175px;
+    font-family: "Open Sans";
+    font-size: 30px;
+    color: #2E353A;
+    position: absolute;
+    top:2200px;
+    left: 134px;
+    margin-top: 15px;;
+}
+.start {
+    width: 865px;
+    height: 163px;
+    position: absolute;
+    left:120px;
+    top:2400px;
+    font-family: "Open Sans";
+    font-size: 45px;
+    background-color: #9A24A9;
+    color: white;
+    border:none;
+    clip-path: polygon(50% 0%, 100% 0, 100% 22%, 95% 73%, 93% 100%, 50% 100%, 15% 100%, 0 100%, 0% 35%, 0 0);
+    border-radius: 20px;;
+}
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 324px;
+    width:1920px;
+}
+.footer1 {
+    font-family: 'Sitka Display', sans-serif;
+    font-size: 52px;
+    margin-bottom: 15px;
+
+}
+.footer2 {
+    margin-bottom: 10px;  
+    font-family: 'Open Sans';
+    font-size: 30px;
+}
+.link{
+    color: black;
+    text-decoration: none;
+    font-family: "Open Sans";
+    font-size: 30px;
+}
