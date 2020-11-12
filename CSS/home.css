@@ -25,11 +25,11 @@
     height: 60px;
     width: 915px;
     font-family: "Open Sans";
-     font-size: 49px;
-     position: relative;
-     left: 148px;
-     margin-bottom: 100px;
-     color:#650061
+    font-size: 49px;
+    position: relative;
+    left: 148px;
+    margin-bottom: 100px;
+    color:#650061
 }
 .AskMe { 
     width: 405px;
@@ -92,8 +92,7 @@
 .want {
     width:570px;
     height: 175px;
-    font-family: 'Sitka Display', 
-    sans-serif;
+    font-family: 'Sitka Display', sans-serif;
     font-size: 85px;
     color: #2E353A;
     position: absolute;

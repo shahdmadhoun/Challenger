@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.sidenav {
+    height: 100%;
+    width: 450px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #f3f5f9;;
+    padding-top: 20px;
+  }
+.sidenav ul li a {
+    padding: 20px 10px 10px 40px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #000000;
+    display: block;
+    width: 100%;
+    text-align: left;
+    cursor: pointer;
+  }
+.sidenav a:hover, .dropdown-btn:hover {
+    color: #750c6b;
+}
+.header {
+    z-index: 10;
+    font-size: 25px;
+    background: linear-gradient(90deg ,#ff20bc , #e21fa8 , #b61b87   , #8b1568 );
+}
