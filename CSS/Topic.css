@@ -10,6 +10,8 @@
     left: 0;
     background-color: #f3f5f9;;
     padding-top: 20px;
+    margin-top: 90px;
+    float: left;
   }
 .sidenav ul li a {
     padding: 20px 10px 10px 40px;
@@ -27,5 +29,28 @@
 .header {
     z-index: 10;
     font-size: 25px;
-    background: linear-gradient(90deg ,#ff20bc , #e21fa8 , #b61b87   , #8b1568 );
+    background: linear-gradient(90deg ,#c91994 , #b81687 , rgb(167, 24, 124)   , rgb(121, 19, 90) );
+}
+.header h1 {
+  color: #ffffff;
+  font-size: 40px;
+  margin-left: 20px;
+  padding: 20px 10px 20px 15px;
+  font-family: 'Sitka Display', sans-serif;
+  letter-spacing: 1.2px;
+  font-weight: lighter;
+}
+.header h1 span {
+  color: #000000;
+  font-size: 25px;
+  margin-left: 15px;
+  font-weight: lighter;
+  letter-spacing: 1.5px;
+}
+.add {
+  width: 1300px;
+  height: 1000px;
+  position: absolute;
+  left:550px;
+  top: 110px;
 }
