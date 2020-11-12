@@ -11,8 +11,9 @@
     background-color: #f3f5f9;;
     padding-top: 20px;
     margin-top: 90px;
-    float: left;
-  }
+    display: flex;
+    flex-wrap: nowrap;
+    }
 .sidenav ul li a {
     padding: 20px 10px 10px 40px;
     text-decoration: none;
