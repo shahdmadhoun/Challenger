@@ -68,3 +68,14 @@
   font-size: 40px;
   border-radius: 10px;
 }
+.add button {
+  padding: 13px 30px 13px 30px;
+  border: none;
+  margin-top: 20px;
+  font-size: 20px;
+  border-radius: 20px;
+  color: #ffffff;
+  letter-spacing: 1.5px;
+  background: linear-gradient(90deg ,#c91994 , #b81687 , rgb(167, 24, 124)   , rgb(121, 19, 90) );
+
+}
